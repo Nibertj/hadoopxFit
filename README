@@ -1,0 +1,5 @@
+this repository contains classes that helped complete tasks in Hadoop;
+
+The RecursiveFileInputFormat class will recursively traverse the root 
+directory that was passed in and all sub directories looking for the
+files that meet the given regular expressions.
